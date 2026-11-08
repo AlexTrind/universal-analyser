@@ -1,0 +1,2 @@
+Ticker,Currency
+# Example: VUSA.L,GBP   (one line per ETF whose trading currency you want to force)

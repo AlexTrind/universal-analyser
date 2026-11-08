@@ -1,0 +1,22 @@
+Ticker,Name,Sector
+XLB,Materials Select Sector SPDR,Sample sector ETFs
+XLC,Communication Services Select Sector SPDR,Sample sector ETFs
+XLE,Energy Select Sector SPDR,Sample sector ETFs
+XLF,Financial Select Sector SPDR,Sample sector ETFs
+XLI,Industrial Select Sector SPDR,Sample sector ETFs
+XLK,Technology Select Sector SPDR,Sample sector ETFs
+XLP,Consumer Staples Select Sector SPDR,Sample sector ETFs
+XLRE,Real Estate Select Sector SPDR,Sample sector ETFs
+XLU,Utilities Select Sector SPDR,Sample sector ETFs
+XLV,Health Care Select Sector SPDR,Sample sector ETFs
+XLY,Consumer Discretionary Select Sector SPDR,Sample sector ETFs
+AAPL,Apple,Sample large caps (not an index)
+MSFT,Microsoft,Sample large caps (not an index)
+NVDA,NVIDIA,Sample large caps (not an index)
+AMZN,Amazon,Sample large caps (not an index)
+GOOGL,Alphabet,Sample large caps (not an index)
+META,Meta Platforms,Sample large caps (not an index)
+JPM,JPMorgan Chase,Sample large caps (not an index)
+XOM,Exxon Mobil,Sample large caps (not an index)
+JNJ,Johnson & Johnson,Sample large caps (not an index)
+PG,Procter & Gamble,Sample large caps (not an index)
